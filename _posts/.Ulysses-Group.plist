@@ -7,10 +7,7 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>使用Ulyssess写文章.md</string>
-		</array>
-		<array>
-			<string>Use-Alfred自动化写作和上传.md</string>
+			<string>使用hexo-github-Ulylsses-Alfred-构建自动化博客.md</string>
 		</array>
 	</array>
 </dict>
